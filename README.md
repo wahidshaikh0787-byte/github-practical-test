@@ -4,7 +4,7 @@
 
 | Full Name | URN Number | Semester |
 | :--- | :--- | :--- |
-| Wahid Shaikh | E25b032541 | 3rd Semester |
+| Wahid Shaikh | E25B032541 | 3rd Semester |
 
 | Section | Subject |
 | :--- | :--- |
